@@ -1,6 +1,5 @@
 - 👋🏻 Hola, soy @MaycoLC! 
-- 👀 Soy un aspirante al Desarrollo Web...
-- 📒 Actualmente, soy estudiante de una Escuela Técnica...
-- 📫 Puedes contactarme aquí: maycocorrea12@gmail.com
+- 📒 Estudiante de Licenciatura en Ciencias de la Computación.
+- maycocorrea12@gmail.com
 
 
