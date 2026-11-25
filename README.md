@@ -1,5 +1,5 @@
 <!-- Encabezado con degradé (servicio gratuito capsule-render) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:14B8A6&height=180&section=header&text=Mayco%20Luciano%20Correa&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Análisis%20de%20datos%20·%20Python%20·%20SQL%20·%20Tableau&descAlignY=58&descSize=18" width="100%" alt="Mayco Luciano Correa"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:14B8A6&height=180&section=header&text=Mayco%20Luciano%20Correa&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Análisis%20de%20Datos%20·%20Python%20·%20SQL%20·%20Tableau&descAlignY=58&descSize=18" width="100%" alt="Mayco Luciano Correa"/>
 
 <div align="center">
 
